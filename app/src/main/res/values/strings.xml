@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- 002 strings -->
+
+	<string name="app_name">content</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="write_string">Write</string>
+	<string name="maciej_kowalski_email_com_string"><u>maciej.kowalski@email.com</u></string>
+	<string name="_08_43_string">08:43</string>
+	<string name="___string">?</string>
+	<string name="i_am_almost_finish__please_give_me_your_email__i_will_zip_them_and_send_you_as_son_as_im_finish__string">I am almost finish. Please give me your email, I will ZIP them and send you as son as im finish.</string>
+	<string name="_08_12_string">08:12</string>
+	<string name="next_month__string">Next month?</string>
+	<string name="i_am_in_a_process_of_designing_some__when_do_you_need_them__string">I am in a process of designing some. When do you need them?</string>
+	<string name="i_commented_on_figma__i_want_to_add_some_fancy_icons__do_you_have_any_icon_set__string">I commented on Figma, I want to add some fancy icons. Do you have any icon set?</string>
+	<string name="_1_feb_12_00_string">1 FEB 12:00</string>
+	<string name="maciej_kowalski_string">Maciej Kowalski</string>
+	<string name="martina_wolna_string">Martina Wolna</string>
+</resources>
